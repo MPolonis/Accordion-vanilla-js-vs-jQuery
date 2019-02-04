@@ -1,5 +1,5 @@
 {
-  "name": "accordion-vanilla-js-vs-jQuery",
+  "name": "accordion",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -43,6 +43,7 @@
     "rimraf": "^2.6.2"
   },
   "dependencies": {
-    "flickity-hash": "^1.0.3"
+    "flickity-hash": "^1.0.3",
+    "jquery": "^3.3.1"
   }
 }
